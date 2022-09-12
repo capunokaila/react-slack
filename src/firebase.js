@@ -5,13 +5,14 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCSy0R2fYzvf4pTQ43MNUjl998u3g-U5F8",
-    authDomain: "react-slack-968ce.firebaseapp.com",
-    projectId: "react-slack-968ce",
-    storageBucket: "react-slack-968ce.appspot.com",
-    messagingSenderId: "617671588231",
-    appId: "1:617671588231:web:753e1b60530f8aa3033b22"
-  };
+  apiKey: "AIzaSyAwktCqiJHUbCeAMwtWOtfsC0huafVgqOc",
+  authDomain: "react-slack-3efdc.firebaseapp.com",
+  projectId: "react-slack-3efdc",
+  storageBucket: "react-slack-3efdc.appspot.com",
+  messagingSenderId: "693910557656",
+  appId: "1:693910557656:web:76cb59879d3cb43a5998ad"
+};
+
 
   // Use this to initialize the firebase App
   const firebaseapp = firebase.initializeApp(firebaseConfig);
